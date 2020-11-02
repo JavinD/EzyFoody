@@ -47,35 +47,6 @@
         "note": "Spicy"
       }
     ],
-    "recommended": [
-      {
-        "name": "Rendang",
-        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/foodapp/recommended2.png",
-        "rating": "4.9",
-        "deliveryTime": "35 mins",
-        "deliveryCharges": "Free Delivery",
-        "price": "250",
-        "note": "Special"
-      },
-      {
-        "name": "Nasi Goreng",
-        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/foodapp/recommended1.png",
-        "rating": "5.0",
-        "deliveryTime": "45 mins",
-        "deliveryCharges": "Free Delivery",
-        "price": "150",
-        "note": ""
-      },
-      {
-        "name": "Pece",
-        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/foodapp/recommended3.png",
-        "rating": "4.0",
-        "deliveryTime": "75 mins",
-        "deliveryCharges": "Free Delivery",
-        "price": "150",
-        "note": "Special, Spicy"
-      }
-    ],
     "allmenu": [
       {
         "name": "Nasi Goreng",
@@ -112,33 +83,6 @@
         "deliveryCharges": "Free Delivery",
         "price": "150",
         "note": "Spicy"
-      },
-      {
-        "name": "Rendang",
-        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/foodapp/recommended2.png",
-        "rating": "4.9",
-        "deliveryTime": "35 mins",
-        "deliveryCharges": "Free Delivery",
-        "price": "250",
-        "note": "Special"
-      },
-      {
-        "name": "Nasi Goreng",
-        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/foodapp/recommended1.png",
-        "rating": "5.0",
-        "deliveryTime": "45 mins",
-        "deliveryCharges": "Free Delivery",
-        "price": "150",
-        "note": ""
-      },
-      {
-        "name": "Pece",
-        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/foodapp/recommended3.png",
-        "rating": "4.0",
-        "deliveryTime": "75 mins",
-        "deliveryCharges": "Free Delivery",
-        "price": "150",
-        "note": "Special, Spicy"
       }
     ]
   }
